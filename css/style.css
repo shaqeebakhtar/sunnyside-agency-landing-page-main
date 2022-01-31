@@ -167,6 +167,7 @@ button {
   .hero .header .navbar {
     background-color: var(--clr-white);
     position: absolute;
+    z-index: 999;
     top: 15%;
     right: 8vw;
     left: 8vw;
