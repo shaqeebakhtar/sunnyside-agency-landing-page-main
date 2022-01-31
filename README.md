@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontent Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontent Mentor](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-html-css-and-js-XPLdGOXKf)
+- Live Site URL: [Netlify](https://sunnyside-freelance-agency-landing-page.netlify.app/)
 
 
 ## Built with
